@@ -1,0 +1,27 @@
+{
+  "name": "lycPlugin",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "lycPlugin",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziyingjing/cordova-plugin-secure-storage.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "ziyingjing",
+  "license": "/",
+  "bugs": {
+    "url": "https://github.com/ziyingjing/cordova-plugin-secure-storage/issues"
+  },
+  "homepage": "https://github.com/ziyingjing/cordova-plugin-secure-storage#readme"
+}
